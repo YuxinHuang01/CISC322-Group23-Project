@@ -37,7 +37,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 <head>
 <style>
 #container {
-				width: 800px;
+				width: 600px;
 				height: 400px;
 				display: flex;
 				display: -webkit-flex;

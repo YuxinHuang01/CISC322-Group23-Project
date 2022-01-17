@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to WannaRun!
 
 You can use the [editor on GitHub](https://github.com/YuxinHuang01/CISC322-Group23-Project/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 

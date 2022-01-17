@@ -1,5 +1,5 @@
 ## Welcome to WannaRun!
-### Software ArchiThicc
+### Software ArchiTecture
 <p> Winter 2022 - Queen's University </p>
 <p> CISC 322/326 </p>
 

@@ -16,12 +16,6 @@
 </body>
 </html>
 
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -49,8 +43,20 @@
 </html>
 
 
-<img src="scream.png" 
+<img src="0（1）.png" 
 width
 ="250" 
 height
 ="400">
+
+
+
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>

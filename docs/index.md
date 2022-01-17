@@ -33,7 +33,63 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuxinHuang01/CISC322-Group23-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<html>
+<head>
+<style>
+#container {
+				width: 800px;
+				height: 400px;
+				display: flex;
+				display: -webkit-flex;
+				flex-direction: row;
+				flex-wrap: nowrap;
+				justify-content: space-around;
+				align-items: flex-start
+			}
+.a {
+  border: 1px solid black;
+  padding: 10px;
+  width: 100px;
+  height: 200px;
+  border: 5px solid gray;
+  text-align: justify;
+}
+</style>
+</head>
+<body>
+
+<h1>Example text-align: justify</h1>
+
+<p>The text-align: justify; value stretches the lines so that each line has equal width (like in newspapers and magazines).</p>
+
+
+
+<div id="container">
+			<div class = "a">
+aaaa
+</div>
+
+<div class = "a">
+aaaaa
+</div>
+<div class = "a">
+aaaaaa
+</div>
+		</div>
+        
+        <div id="container">
+			<div class = "a">
+aaaa
+</div>
+
+<div class = "a">
+aaaaa
+</div>
+
+		</div>
+
+</body>
+</html>
 
 ### Support or Contact
 

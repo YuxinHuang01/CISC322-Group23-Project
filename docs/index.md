@@ -1,7 +1,7 @@
 ## Welcome to WannaRun!
 
 
-### Software ArchiTecture
+### Software Architecture
 ### Winter 2022 - Queen's University
 ### CISC 322/326
 

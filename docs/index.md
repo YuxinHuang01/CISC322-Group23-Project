@@ -1,6 +1,6 @@
 ## Welcome to WannaRun!
-### Software ArchiThicc
-#### Fall 2018 - Queen's University
+### Software ArchiTecture
+#### Winter 2022 - Queen's University
 #### CISC 322/326
 
 You can use the [editor on GitHub](https://github.com/YuxinHuang01/CISC322-Group23-Project/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.

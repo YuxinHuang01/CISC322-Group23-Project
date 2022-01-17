@@ -16,7 +16,7 @@
 <body>
 
 <h1 style="text-align:center;">This is a Heading</h1>
-<p>This is a paragraph.</p>
+<p style="text-align:center;">This is a paragraph.</p>
 
 </body>
 </html>

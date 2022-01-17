@@ -1,3 +1,8 @@
+
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+  
 # CISC322-Group23-Project
 # Group23 -- WANNA RUN
 # 123455
@@ -49,11 +54,6 @@ width
 height
 ="400">
 
-
-
-<!DOCTYPE html>
-<html>
-<body style="background-color:powderblue;">
 
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>

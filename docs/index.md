@@ -55,12 +55,17 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
   text-align: justify;
 }
 	
-.center{
+.img_center{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
 	}
+	
+.text_center{
+	text-aligh: center
+	}
+	
 </style>
 </head>
 <body>
@@ -76,8 +81,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				<img src="https://hakaimg.com/i/2022/01/23/j3d1jp.jpg" 
 				     height = 150
 				     class
-				     ="center">
-				<b class = "center">mailto</b>
+				     ="img_center">
+				<b class = "text_center">mailto</b>
 					[Mail]<a href="mailto:18yh98@queensu.ca">mailto:18yh98@queensu.ca</a>
 					[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
 					</div>

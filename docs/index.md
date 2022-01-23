@@ -74,6 +74,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 	<div id="container">
 			<div class = "a">
 				<img src="https://hakaimg.com/i/2022/01/23/j3d1jp.jpg" 
+				     height = 150
 				     class
 				     ="center">
 					[Mail]<a href="mailto:18yh98@queensu.ca">mailto:18yh98@queensu.ca</a>

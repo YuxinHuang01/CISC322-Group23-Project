@@ -49,7 +49,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 .a {
   border: 1px solid black;
   padding: 10px;
-  width: 100px;
+  width: 230px;
   height: 200px;
   border: 5px solid gray;
   text-align: justify;

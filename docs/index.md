@@ -49,8 +49,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 .a {
   border: 1px solid black;
   padding: 10px;
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   border: 5px solid gray;
   text-align: justify;
 }

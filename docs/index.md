@@ -102,6 +102,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				  	height = 150
 				     	class
 				     	="img_center">
+		GONG JIA LIN
 	</div>
 		</div>
         
@@ -111,6 +112,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				  	height = 150
 				     	class
 				     	="img_center">
+			LI HAI RUO
 			</div>
 		
 		<div class = "a">
@@ -118,6 +120,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				  	height = 150
 				     	class
 				     	="img_center">
+			YANG YU XUAN
 			</div>
 		
 		<div class = "a">
@@ -125,6 +128,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				  	height = 150
 				     	class
 				     	="img_center">
+			YANG SONG YU
 			</div>
 
 	</div>

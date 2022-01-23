@@ -77,6 +77,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				     height = 150
 				     class
 				     ="center">
+				<b class = "center">mailto</b>
 					[Mail]<a href="mailto:18yh98@queensu.ca">mailto:18yh98@queensu.ca</a>
 					[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
 					</div>

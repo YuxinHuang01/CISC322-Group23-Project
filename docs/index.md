@@ -83,7 +83,7 @@ text_center{
 				     class
 				     ="img_center">
 				<text_center>mailto</text_center>
-					[Mail]<a href="mailto:18yh98@queensu.ca">mailto:18yh98@queensu.ca</a>
+					[Mail]<a href="mailto:18yh98@queensu.ca">18yh98@queensu.ca</a>
 					[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
 					</div>
 				
@@ -93,7 +93,7 @@ text_center{
 				     	class
 				     	="img_center">
 					<text_center>Muyun Sai</text_center>
-					[Mail]<a href="18ms78@queensu.ca">18ms78@queensu.ca</a>
+					[Mail]<a href="mailto:18ms78@queensu.ca">18ms78@queensu.ca</a>
 					[GitHub]<a href="https://github.com/18ms78">https://github.com/18ms78</a>
 				</div>
 	

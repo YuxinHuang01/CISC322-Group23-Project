@@ -71,8 +71,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				     ="150" 
 				     height
 				     ="150"
-				     style="center;">
-				<a href="https://github.com/YuxinHuang01">
+				     class
+				     ="center">
+				<a href="https://github.com/YuxinHuang01"></a>
 					[Mail](mailto:18yh98@queensu.ca)
 					[GitHub](https://github.com/YuxinHuang01)
 					</div>

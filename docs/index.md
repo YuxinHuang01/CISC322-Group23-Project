@@ -62,7 +62,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 	width: 50%;
 	}
 	
-.text_center{
+text_center{
 	text-aligh: center
 	}
 	
@@ -82,13 +82,13 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				     height = 150
 				     class
 				     ="img_center">
-				<b class = "text_center">mailto</b>
+				<text_center class = "text_center">mailto</text_center>
 					[Mail]<a href="mailto:18yh98@queensu.ca">mailto:18yh98@queensu.ca</a>
 					[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
 					</div>
 				
 				<div class = "a">
-					<b class = "text_center">Muyun Sai</b>
+					<text_center class = "text_center">Muyun Sai</>
 					[Mail]<a href="18ms78@queensu.ca">18ms78@queensu.ca</a>
 					[GitHub]<a href="https://github.com/18ms78">https://github.com/18ms78</a>
 				</div>

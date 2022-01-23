@@ -70,7 +70,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 width
 ="150" 
 height
-="190">
+="150">
 <a href="https://github.com/YuxinHuang01"></a>
 
 [Mail](mailto:18yh98@queensu.ca)				

@@ -66,7 +66,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 	<div id="container">
 			<div class = "a">
-				style="text-align:center;"><img src="https://hakaimg.com/i/2022/01/23/j3d1jp.jpg" 
+				<style="text-align:center;"><img src="https://hakaimg.com/i/2022/01/23/j3d1jp.jpg" 
 				     width
 				     ="150" 
 				     height

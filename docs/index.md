@@ -38,7 +38,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 <style>
 #container {
 				width: 800px;
-				height: 300px;
+				height: 320px;
 				display: flex;
 				display: -webkit-flex;
 				flex-direction: row;
@@ -50,17 +50,22 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
   border: 1px solid black;
   padding: 10px;
   width: 250px;
-  height: 250px;
+  height: 280px;
   border: 5px solid gray;
   text-align: justify;
 }
 	
-.center{
+.img_center{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	width: 80%;
 	}
+	
+text_center{
+	text-aligh: center;
+	}
+	
 </style>
 </head>
 <body>
@@ -76,13 +81,20 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
 				     height = 150
 				     class
-				     ="center">
+				     ="img_center">
+				<a>mailto</a>
 					[Mail]<a href="mailto:18yh98@queensu.ca">mailto:18yh98@queensu.ca</a>
 					[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
 					</div>
 				
 				<div class = "a">
-					aaaaa
+					<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
+				  	height = 150
+				     	class
+				     	="img_center">
+					<a>Muyun Sai</a>
+					[Mail]<a href="18ms78@queensu.ca">18ms78@queensu.ca</a>
+					[GitHub]<a href="https://github.com/18ms78">https://github.com/18ms78</a>
 				</div>
 	
 	<div class = "a">

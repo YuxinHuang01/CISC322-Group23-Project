@@ -98,21 +98,33 @@ text_center{
 				</div>
 	
 	<div class = "a">
-		aaaaa
+		<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
+				  	height = 150
+				     	class
+				     	="img_center">
 	</div>
 		</div>
         
         <div id="container">
 		<div class = "a">
-				aaaaa
+				<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
+				  	height = 150
+				     	class
+				     	="img_center">
 			</div>
 		
 		<div class = "a">
-				aaaaa
+				<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
+				  	height = 150
+				     	class
+				     	="img_center">
 			</div>
 		
 		<div class = "a">
-				aaaaa
+				<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
+				  	height = 150
+				     	class
+				     	="img_center">
 			</div>
 
 	</div>

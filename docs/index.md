@@ -67,6 +67,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 <div id="container">
 			<div class = "a">
 aaaa
+external:
 - {title: Mail, icon: envelope, url: "mailto:18yh98@queensu.ca"}
 - {title: Github, icon: github, url: "https://github.com/YuxinHuang01"}
 </div>

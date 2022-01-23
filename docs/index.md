@@ -92,7 +92,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				  	height = 150
 				     	class
 				     	="img_center">
-					<b class = "text_center">Muyun</b>
+					<b class = "text_center">Muyun Sai</b>
 					[Mail]<a href="mailto:18ms78@queensu.ca">18ms78@queensu.ca</a>
 					[GitHub]<a href="https://github.com/18ms78">https://github.com/18ms78</a>
 				</div>

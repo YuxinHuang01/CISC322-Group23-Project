@@ -73,9 +73,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				     ="150"
 				     class
 				     ="center">
-				<a href="https://github.com/YuxinHuang01"></a>
 					[Mail](mailto:18yh98@queensu.ca)
-					[GitHub](https://github.com/YuxinHuang01)
+					[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
 					</div>
 				
 				<div class = "a">

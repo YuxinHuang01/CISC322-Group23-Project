@@ -120,7 +120,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				  	height = 150
 				     	class
 				     	="img_center">
-			YANG YU XUAN
+					<div class = "text_center">Yuxuan Yang</div>
+					[Mail]<a href="mailto:18yy82@queensu.ca">18yy82@queensu.ca</a>
+					[GitHub]<a href="https://github.com/18yy82">https://github.com/18yy82</a>
 			</div>
 		
 		<div class = "a">

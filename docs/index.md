@@ -60,6 +60,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 	margin-left: auto;
 	margin-right: auto;
 	width: 70%;
+	border-radius: 50%;
 	}
 	
 .text_center{

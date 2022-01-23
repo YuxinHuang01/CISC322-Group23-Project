@@ -38,7 +38,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 <style>
 #container {
 				width: 800px;
-				height: 320px;
+				height: 340px;
 				display: flex;
 				display: -webkit-flex;
 				flex-direction: row;
@@ -50,7 +50,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
   border: 1px solid black;
   padding: 10px;
   width: 250px;
-  height: 280px;
+  height: 320px;
   border: 5px solid gray;
   text-align: justify;
 }

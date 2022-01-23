@@ -53,6 +53,12 @@ width
 ="250" 
 height
 ="400">
+  
+<img src="" 
+width
+="250" 
+height
+="400">
 
 
 <h1>This is a heading</h1>

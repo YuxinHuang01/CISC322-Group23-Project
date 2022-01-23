@@ -63,7 +63,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 	}
 	
 text_center{
-	text-aligh: center;
+	text-align: center;
 	}
 	
 </style>

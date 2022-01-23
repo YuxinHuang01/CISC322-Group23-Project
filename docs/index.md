@@ -70,14 +70,14 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 width
 ="150" 
 height
-="150">
-<a href="https://github.com/YuxinHuang01"></a>
-
+="190">
+<a href="https://github.com/YuxinHuang01">
 [Mail](mailto:18yh98@queensu.ca)				
 [GitHub](https://github.com/YuxinHuang01)
 </div>
 	<div class = "a">
-		aaaaa
+		<div>aaaaa</div>
+		<div align = "center">aaaaa</div>
 	</div>
 	
 	<div class = "a">

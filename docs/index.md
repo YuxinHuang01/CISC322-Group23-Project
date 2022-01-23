@@ -98,9 +98,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 					[GitHub]<a href="https://github.com/18ms78">https://github.com/18ms78</a>
 				</div>
 	
-	<div class = "a">
-		
-		<div class = "a">
+
+	<div id="container">
+			<div class = "a">
 				<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
 				  	height = 150
 				     	class
@@ -108,8 +108,17 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 					<div class="text_center">Jialin Gong</div>
 					[Mail]<a href="mailto:18jg39@queensu.ca">18jg39@queensu.ca</a>
 					[GitHub]<a href="https://github.com/18jg39">https://github.com/18jg39</a>
-	</div>
-		</div>
+					</div>
+				
+				<div class = "a">
+					<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
+				  	height = 150
+				     	class
+				     	="img_center">
+					<div class = "text_center">Muyun Sai</div>
+					[Mail]<a href="mailto:18ms78@queensu.ca">18ms78@queensu.ca</a>
+					[GitHub]<a href="https://github.com/18ms78">https://github.com/18ms78</a>
+				</div>
         
         <div id="container">
 		<div class = "a">

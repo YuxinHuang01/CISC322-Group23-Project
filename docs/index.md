@@ -108,6 +108,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 					[Mail]<a href="mailto:18jg39@queensu.ca">18jg39@queensu.ca</a>
 					[GitHub]<a href="https://github.com/18jg39">https://github.com/18jg39</a>
 			</div>
+		</div>
 	
 		
 

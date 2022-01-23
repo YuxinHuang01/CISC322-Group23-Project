@@ -71,7 +71,7 @@ width
 ="150" 
 height
 ="190">
-<a href="https://github.com/YuxinHuang01"><a/>
+<a href="https://github.com/YuxinHuang01"></a>
 
 [Mail](mailto:18yh98@queensu.ca)				
 [GitHub](https://github.com/YuxinHuang01)

@@ -75,9 +75,10 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 					[Mail](mailto:18yh98@queensu.ca)
 					[GitHub](https://github.com/YuxinHuang01)
 					</div>
-	<div class = "a">
-		aaaaa
-	</div>
+				
+				<div class = "a">
+					aaaaa
+				</div>
 	
 	<div class = "a">
 		aaaaa

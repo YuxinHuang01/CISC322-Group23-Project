@@ -76,8 +76,7 @@ height
 [GitHub](https://github.com/YuxinHuang01)
 </div>
 	<div class = "a">
-		<div>aaaaa</div>
-		<div align = "center">aaaaa</div>
+		aaaaa
 	</div>
 	
 	<div class = "a">

@@ -130,10 +130,10 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				  	height = 150
 				     	class
 				     	="img_center">
-					<div class = "text_center">Songyu Yang</div>
+					<div class = <text color="red">"text_center">Songyu Yang</div>
 					[Mail]<a href="mailto:18sy36@queensu.ca">18sy36@queensu.ca</a>
 					[GitHub]<a href="https://github.com/shallowManica">https://github.com/shallowManica</a>
-			YANG SONG YU
+			
 			</div>
 
 	</div>

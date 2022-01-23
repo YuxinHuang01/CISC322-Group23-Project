@@ -99,8 +99,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				</div>
 	
 
-	<div id="container">
-		<div class = "a">
+			<div class = "a">
 				<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
 				  	height = 150
 				     	class

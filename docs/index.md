@@ -68,9 +68,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 			<div class = "a">
 <img src="https://seikim.com/i/2022/01/23/iw3tng.jpg" 
 width
-="250" 
+="150" 
 height
-="400">
+="150">
 <a href="https://github.com/YuxinHuang01"></a>
 [Mail](mailto:18yh98@queensu.ca)				
 [GitHub](https://github.com/YuxinHuang01)

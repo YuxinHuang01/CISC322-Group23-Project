@@ -59,7 +59,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 80%;
+	width: 70%;
 	}
 	
 text_center{
@@ -82,7 +82,7 @@ text_center{
 				     height = 150
 				     class
 				     ="img_center">
-				<a>mailto</a>
+				<text_center>mailto</text_center>
 					[Mail]<a href="mailto:18yh98@queensu.ca">mailto:18yh98@queensu.ca</a>
 					[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
 					</div>
@@ -92,7 +92,7 @@ text_center{
 				  	height = 150
 				     	class
 				     	="img_center">
-					<a>Muyun Sai</a>
+					<text_center>Muyun Sai</text_center>
 					[Mail]<a href="18ms78@queensu.ca">18ms78@queensu.ca</a>
 					[GitHub]<a href="https://github.com/18ms78">https://github.com/18ms78</a>
 				</div>

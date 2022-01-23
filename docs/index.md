@@ -92,7 +92,7 @@ text_center{
 				  	height = 150
 				     	class
 				     	="img_center">
-					<text_center>Muyun gghdgfhd Sai</text_center>
+					<text_center>Muyun</text_center>
 					[Mail]<a href="mailto:18ms78@queensu.ca">18ms78@queensu.ca</a>
 					[GitHub]<a href="https://github.com/18ms78">https://github.com/18ms78</a>
 				</div>

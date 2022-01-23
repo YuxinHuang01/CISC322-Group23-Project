@@ -83,7 +83,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 				     height = 150
 				     class
 				     ="img_center">
-				<div class = "text_center">mailto</div>
+				<div class = "text_center">Yuxin Huang</div>
 					[Mail]<a href="mailto:18yh98@queensu.ca">18yh98@queensu.ca</a>
 					[GitHub]<a href="https://github.com/YuxinHuang01">https://github.com/YuxinHuang01</a>
 					</div>

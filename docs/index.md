@@ -71,33 +71,31 @@ aaaa
 [Mail](mailto:18yh98@queensu.ca)				
 [GitHub](https://github.com/YuxinHuang01)
 </div>
-
-<div class = "a">
-aaaaa
-</div>
+	<div class = "a">
+		aaaaa
+	</div>
+	
+	<div class = "a">
+		aaaaa
+	</div>
 		</div>
         
         <div id="container">
-			<div class = "a">
+		<div class = "a">
 				aaaaa
 			</div>
 		
-			<div class = "a">
+		<div class = "a">
+				aaaaa
+			</div>
+		
+		<div class = "a">
 				aaaaa
 			</div>
 
 	</div>
 	
-	 <div id="container">
-			<div class = "a">
-				aaaa
-			</div>
 
-			<div class = "a">
-				aaaaa
-			</div>
-
-	</div>
 
 </body>
 </html>

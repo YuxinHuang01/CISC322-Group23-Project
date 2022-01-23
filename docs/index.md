@@ -54,6 +54,13 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
   border: 5px solid gray;
   text-align: justify;
 }
+	
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	}
 </style>
 </head>
 <body>

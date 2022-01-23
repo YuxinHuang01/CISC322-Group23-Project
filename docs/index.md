@@ -66,12 +66,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 	<div id="container">
 			<div class = "a">
-				<img src="https://seikim.com/i/2022/01/23/iw3tng.jpg" 
+				style="text-align:center;"><img src="https://hakaimg.com/i/2022/01/23/j3d1jp.jpg" 
 				     width
 				     ="150" 
 				     height
-				     ="190">
-				
+				     ="150">
+				<a href="https://github.com/YuxinHuang01">
 					[Mail](mailto:18yh98@queensu.ca)
 					[GitHub](https://github.com/YuxinHuang01)
 					</div>

@@ -134,7 +134,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 			</div>
 		
 		<div class = "a">
-				<img src="https://hakaimg.com/i/2022/01/29/10samxh.jpeg" 
+				<img src="https://hakaimg.com/i/2022/01/29/10usd35.jpeg" 
 				  	height = 150
 				     	class
 				     	="img_center">

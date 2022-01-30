@@ -3,8 +3,6 @@
 <p> Winter 2022 - Queen's University </p>
 <p> CISC 322/326 </p>
 
-You can use the [editor on GitHub](https://github.com/YuxinHuang01/CISC322-Group23-Project/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
 ### Assignments
 Assignments from group 23 of CISC322 W22
 
@@ -51,9 +49,6 @@ Assignments from group 23 of CISC322 W22
 <h1>Group Mumbers</h1>
 
 <p>Here are the mumbers' information of WannaRun.</p>
-
-### Assignments
-Assignments from group 23 of CISC322 W22
 
 	<div id="container">
 			<div class = "a">

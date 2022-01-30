@@ -9,14 +9,14 @@ Assignments from group 23 of CISC322 W22
 <head>
 <style>
 #assignment {
-				width: 80px;
-				height: 20px;
+				width: 800px;
+				height: 200px;
 			}
 .b {
   border: 1px solid black;
   padding: 10px;
   width: 400px;
-  height: 20px;
+  height: 200px;
   border: 5px solid gray;
   text-align: justify;
 }

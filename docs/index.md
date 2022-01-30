@@ -5,7 +5,11 @@
 
 # Assignments
 Assignments from group 23 of CISC322 W22
+### Assignment 1
 
+### Assignment 2
+
+### Assignment 3
 
 
 <html>

@@ -5,12 +5,53 @@
 
 # Assignments
 Assignments from group 23 of CISC322 W22
-### Assignment 1
+<html>
+<head>
+<style>
+#container {
+				width: 800px;
+				height: 340px;
+				display: flex;
+				display: -webkit-flex;
+				flex-direction: row;
+				flex-wrap: nowrap;
+				justify-content: space-around;
+				align-items: flex-start
+			}
+.a {
+  border: 1px solid black;
+  padding: 10px;
+  width: 250px;
+  height: 320px;
+  border: 5px solid gray;
+  text-align: justify;
+}
+	
+.img_center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	border-radius: 50%;
+	}
+	
+.text_center{
+	text-align: center;
+	}
+	
+</style>
+</head>
+<body>
 
-### Assignment 2
 
-### Assignment 3
+	<p style = "color:green;font-size:50px;">Assignment 1</p>
 
+	
+
+	<p style = "color:green;font-size:50px;">Assignment 1</p>
+	
+
+	<p style = "color:green;font-size:50px;">Assignment 1</p>
 
 <html>
 <head>

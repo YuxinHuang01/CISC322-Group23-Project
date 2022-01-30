@@ -8,11 +8,11 @@ Assignments from group 23 of CISC322 W22
 <html>
 <head>
 <style>
-#container {
+#assignment {
 				width: 80px;
 				height: 20px;
 			}
-.a {
+.b {
   border: 1px solid black;
   padding: 10px;
   width: 400px;
@@ -40,10 +40,10 @@ Assignments from group 23 of CISC322 W22
 
 	<p style = "color:green;font-size:25px;">Assignment 1</p>
 
-	<div id="container">
-			<div class = "a">
+	<div id="assignment">
+			<div class = "b">
 				</div>
-				<div class = "a">
+				<div class = "b">
 					
 				</div>
 		</div>

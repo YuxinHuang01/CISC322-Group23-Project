@@ -194,6 +194,6 @@ Assignments from group 23 of CISC322 W22
 </html>
 <p style = "color:green;font-size:40px;">Links</p>
 	
-	<p style = "color:green;font-size:25px;">Assignment 1</p>
-	<p style = "color:green;font-size:25px;">Assignment 2</p>
-	<p style = "color:green;font-size:25px;">Assignment 3</p>
+	<p style = "color:green;font-size:25px;">Assignment 1 reference</p>
+	<p style = "color:green;font-size:25px;">Assignment 2 reference</p>
+	<p style = "color:green;font-size:25px;">Assignment 3 reference</p>

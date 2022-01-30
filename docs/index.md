@@ -100,7 +100,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 	
 
 			<div class = "a">
-				<img src="https://hakaimg.com/i/2022/01/30/fujpxv.jpg.jpg" 
+				<img src="https://hakaimg.com/i/2022/01/30/fujpxv.jpg" 
 				  	height = 150
 				     	class
 				     	="img_center">

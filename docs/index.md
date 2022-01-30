@@ -9,8 +9,8 @@ Assignments from group 23 of CISC322 W22
 <head>
 <style>
 #container {
-				width: 800px;
-				height: 200px;
+				width: 80px;
+				height: 20px;
 			}
 .a {
   border: 1px solid black;

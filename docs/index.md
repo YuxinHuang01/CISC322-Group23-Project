@@ -48,7 +48,7 @@ Assignments from group 23 of CISC322 W22
 
 	<div id="assignment">
 			<div class = "b">
-				aaaa
+				bbbbbbb
 				</div>
 				<div class = "b">
 					

@@ -16,7 +16,7 @@ Assignments from group 23 of CISC322 W22
   border: 1px solid black;
   padding: 10px;
   width: 400px;
-  height: 200px;
+  height: 20px;
   border: 5px solid gray;
   text-align: justify;
 }

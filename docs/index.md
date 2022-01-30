@@ -3,7 +3,7 @@
 <p> Winter 2022 - Queen's University </p>
 <p> CISC 322/326 </p>
 
-### Assignments
+# Assignments
 Assignments from group 23 of CISC322 W22
 
 

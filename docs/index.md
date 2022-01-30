@@ -175,6 +175,4 @@ Assignments from group 23 of CISC322 W22
 
 </body>
 </html>
-
-# Links
-
+<p style = "color:green;font-size:40px;">Links</p>

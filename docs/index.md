@@ -11,17 +11,11 @@ Assignments from group 23 of CISC322 W22
 #container {
 				width: 800px;
 				height: 200px;
-				display: flex;
-				display: -webkit-flex;
-				flex-direction: row;
-				flex-wrap: nowrap;
-				justify-content: space-around;
-				align-items: flex-start
 			}
 .a {
   border: 1px solid black;
   padding: 10px;
-  width: 600px;
+  width: 400px;
   height: 200px;
   border: 5px solid gray;
   text-align: justify;
@@ -55,10 +49,10 @@ Assignments from group 23 of CISC322 W22
 				</div>
 		</div>
 
-	<p style = "color:green;font-size:25px;">Assignment 1</p>
+	<p style = "color:green;font-size:25px;">Assignment 2</p>
 	
 
-	<p style = "color:green;font-size:25px;">Assignment 1</p>
+	<p style = "color:green;font-size:25px;">Assignment 3</p>
 
 	
 	

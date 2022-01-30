@@ -1,4 +1,4 @@
-## Welcome to WannaRun!
+<h1>Whelcomt to Wanna Run</h1>
 ### Software Architecture
 <p> Winter 2022 - Queen's University </p>
 <p> CISC 322/326 </p>
@@ -48,7 +48,7 @@ Assignments from group 23 of CISC322 W22
 
 <h1>Group Members</h1>
 
-<p>Here are the mumbers' information of WannaRun.</p>
+<p>Here are the members' information of WannaRun.</p>
 
 	<div id="container">
 			<div class = "a">

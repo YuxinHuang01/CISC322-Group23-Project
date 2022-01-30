@@ -53,6 +53,7 @@ Assignments from group 23 of CISC322 W22
 				<div class = "a">
 					
 				</div>
+		</div>
 
 	<p style = "color:green;font-size:25px;">Assignment 1</p>
 	

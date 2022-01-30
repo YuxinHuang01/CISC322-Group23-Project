@@ -11,6 +11,12 @@ Assignments from group 23 of CISC322 W22
 #assignment {
 				width: 800px;
 				height: 200px;
+				display: flex;
+				display: -webkit-flex;
+				flex-direction: row;
+				flex-wrap: nowrap;
+				justify-content: space-around;
+				align-items: flex-start
 			}
 .b {
   border: 1px solid black;

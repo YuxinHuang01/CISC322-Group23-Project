@@ -42,7 +42,6 @@ Assignments from group 23 of CISC322 W22
 
 	<div id="container">
 			<div class = "a">
-				aaaaaa
 				</div>
 				<div class = "a">
 					

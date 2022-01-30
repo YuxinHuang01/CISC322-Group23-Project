@@ -1,4 +1,4 @@
-<h1>Whelcomt to Wanna Run</h1>
+<h1>Welcome to Wanna Run</h1>
 ### Software Architecture
 <p> Winter 2022 - Queen's University </p>
 <p> CISC 322/326 </p>

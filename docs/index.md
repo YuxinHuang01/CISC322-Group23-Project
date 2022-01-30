@@ -46,7 +46,7 @@ Assignments from group 23 of CISC322 W22
 </head>
 <body>
 
-<h1>Group Mumbers</h1>
+<h1>Group Members</h1>
 
 <p>Here are the mumbers' information of WannaRun.</p>
 

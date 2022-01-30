@@ -124,6 +124,5 @@ Assignments from group 23 of CISC322 W22
 </body>
 </html>
 
-### Support or Contact
+# Links
 
-You can use the [editor on GitHub](https://github.com/YuxinHuang01/CISC322-Group23-Project/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.

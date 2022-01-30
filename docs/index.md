@@ -102,7 +102,7 @@ Assignments from group 23 of CISC322 W22
 			</div>
 		
 		<div class = "a">
-				<img src="https://hakaimg.com/i/2022/01/23/kt2img.jpg" 
+				<img src="https://hakaimg.com/i/2022/01/30/hf9c9y.jpg" 
 				  	height = 150
 				     	class
 				     	="img_center">

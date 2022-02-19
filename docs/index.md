@@ -91,7 +91,7 @@ video {
 			<div class = "pres">
 					<p style = "color:green;font-size:15px;">Presentation</p>
 					<video width="400" controls>
-  						<source src="lol.mp4" type="video/mp4">
+  						<source src="C:\Users\12749\Desktop\lol.mp4" type="video/mp4">
 					</video>
 				</div>
 		</div>
@@ -111,7 +111,7 @@ video {
 			<div class = "pres">
 					<p style = "color:green;font-size:15px;">Presentation</p>
 					<video width="400" controls>
-  						<source src="lol.mp4" type="video/mp4">
+  						<source src="C:\Users\12749\Desktop\lol.mp4" type="video/mp4">
 					</video>
 				</div>
 		</div>
@@ -131,7 +131,7 @@ video {
 			<div class = "pres">
 					<p style = "color:green;font-size:15px;">Presentation</p>
 					<video width="400" controls>
-  						<source src="lol.mp4" type="video/mp4">
+  						<source src="C:\Users\12749\Desktop\lol.mp4" type="video/mp4">
 					</video>
 				</div>
 		</div>

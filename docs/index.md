@@ -10,7 +10,7 @@ Assignments from group 23 of CISC322 W22
 <style>
 #assignment {
 				width: 800px;
-				height: 500px;
+				height: 450px;
 				display: flex;
 				display: -webkit-flex;
 				flex-direction: row;
@@ -20,7 +20,7 @@ Assignments from group 23 of CISC322 W22
 			}
 #PPT_Pres {
 				width: 400px;
-				height: 500px;
+				height: 450px;
 				display: flex;
 				display: -webkit-flex;
 				flex-direction: column;
@@ -33,7 +33,7 @@ Assignments from group 23 of CISC322 W22
   border: 1px solid black;
   padding: 10px;
   width: 300px;
-  height: 500px;
+  height: 450px;
   border: 5px solid gray;
   text-align: justify;
 }

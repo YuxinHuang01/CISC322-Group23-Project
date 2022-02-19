@@ -33,7 +33,7 @@ Assignments from group 23 of CISC322 W22
   border: 1px solid black;
   padding: 10px;
   width: 400px;
-  height: 600px;
+  height: 500px;
   border: 5px solid gray;
   text-align: justify;
 }
@@ -41,7 +41,7 @@ Assignments from group 23 of CISC322 W22
 .ppt {
   border: 1px solid black;
   padding: 10px;
-  width: 300px;
+  width: 400px;
   height: 250px;
   border: 5px solid gray;
   text-align: justify;
@@ -50,7 +50,7 @@ Assignments from group 23 of CISC322 W22
 .pres {
   border: 1px solid black;
   padding: 10px;
-  width: 300px;
+  width: 400px;
   height: 250px;
   border: 5px solid gray;
   text-align: justify;

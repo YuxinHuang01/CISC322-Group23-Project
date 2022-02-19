@@ -71,8 +71,8 @@ Assignments from group 23 of CISC322 W22
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
-			<div class = "ppt">
-					<p style = "color:green;font-size:15px;">PPT</p>
+			<div class = "pres">
+					<p style = "color:green;font-size:15px;">Presentation</p>
 				</div>
 		</div>
 
@@ -85,8 +85,8 @@ Assignments from group 23 of CISC322 W22
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
-			<div class = "ppt">
-					<p style = "color:green;font-size:15px;">PPT</p>
+			<div class = "pres">
+					<p style = "color:green;font-size:15px;">Presentation</p>
 				</div>
 		</div>
 	
@@ -99,8 +99,8 @@ Assignments from group 23 of CISC322 W22
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
-			<div class = "ppt">
-					<p style = "color:green;font-size:15px;">PPT</p>
+			<div class = "pres">
+					<p style = "color:green;font-size:15px;">Presentation</p>
 				</div>
 		</div>
 	

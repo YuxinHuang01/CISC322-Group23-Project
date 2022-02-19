@@ -21,7 +21,7 @@ Assignments from group 23 of CISC322 W22
 .report {
   border: 1px solid black;
   padding: 10px;
-  width: 100px;
+  width: 150px;
   height: 200px;
   border: 5px solid gray;
   text-align: justify;
@@ -30,7 +30,7 @@ Assignments from group 23 of CISC322 W22
 .ppt {
   border: 1px solid black;
   padding: 10px;
-  width: 400px;
+  width: 300px;
   height: 200px;
   border: 5px solid gray;
   text-align: justify;
@@ -39,7 +39,7 @@ Assignments from group 23 of CISC322 W22
 .pres {
   border: 1px solid black;
   padding: 10px;
-  width: 400px;
+  width: 300px;
   height: 200px;
   border: 5px solid gray;
   text-align: justify;
@@ -66,9 +66,12 @@ Assignments from group 23 of CISC322 W22
 
 	<div id="assignment">
 			<div class = "report">
-				<p style = "color:green;font-size:15px;">Report</p>
+					<p style = "color:green;font-size:15px;">Report</p>
 				</div>
-				<div class = "ppt">
+			<div class = "ppt">
+					<p style = "color:green;font-size:15px;">PPT</p>
+				</div>
+			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
 		</div>
@@ -76,10 +79,13 @@ Assignments from group 23 of CISC322 W22
 	<p style = "color:green;font-size:25px;">Assignment 2</p>
 	
 	<div id="assignment">
-			<div class = "b">
-				<p style = "color:green;font-size:15px;">Report</p>
+			<div class = "report">
+					<p style = "color:green;font-size:15px;">Report</p>
 				</div>
-				<div class = "b">
+			<div class = "ppt">
+					<p style = "color:green;font-size:15px;">PPT</p>
+				</div>
+			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
 		</div>
@@ -87,10 +93,13 @@ Assignments from group 23 of CISC322 W22
 	<p style = "color:green;font-size:25px;">Assignment 3</p>
 
 	<div id="assignment">
-			<div class = "b">
-				<p style = "color:green;font-size:15px;">Report</p>
+			<div class = "report">
+					<p style = "color:green;font-size:15px;">Report</p>
 				</div>
-				<div class = "b">
+			<div class = "ppt">
+					<p style = "color:green;font-size:15px;">PPT</p>
+				</div>
+			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
 		</div>

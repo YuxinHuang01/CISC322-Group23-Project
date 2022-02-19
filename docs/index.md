@@ -20,7 +20,7 @@ Assignments from group 23 of CISC322 W22
 			}
 #PPT_Pres {
 				width: 400px;
-				height: 200px;
+				height: 600px;
 				display: flex;
 				display: -webkit-flex;
 				flex-direction: column;

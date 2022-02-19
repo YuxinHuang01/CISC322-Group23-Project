@@ -15,7 +15,7 @@ Assignments from group 23 of CISC322 W22
 				display: -webkit-flex;
 				flex-direction: row;
 				flex-wrap: nowrap;
-				justify-content: space-around;
+				justify-content: space-between;
 				align-items: flex-start
 			}
 #PPT_Pres {
@@ -25,7 +25,7 @@ Assignments from group 23 of CISC322 W22
 				display: -webkit-flex;
 				flex-direction: column;
 				flex-wrap: nowrap;
-				justify-content: space-around;
+				justify-content: space-between;
 				align-items: flex-start
 			}
 	

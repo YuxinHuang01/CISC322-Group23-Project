@@ -36,7 +36,7 @@ Assignments from group 23 of CISC322 W22
   border: none;
   color: White ;
   text-align: center;
-  font-size: 10px;
+  font-size: 15px;
   padding: 10px;
   width: 100px;
   transition: all 0.5s;

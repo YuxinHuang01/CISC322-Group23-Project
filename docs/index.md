@@ -57,7 +57,7 @@ Assignments from group 23 of CISC322 W22
 }
 	
 video {
-  width: 80%;
+  width: 60%;
   height: auto;
 }
 	

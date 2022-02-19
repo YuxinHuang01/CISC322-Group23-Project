@@ -18,7 +18,25 @@ Assignments from group 23 of CISC322 W22
 				justify-content: space-around;
 				align-items: flex-start
 			}
-.b {
+.report {
+  border: 1px solid black;
+  padding: 10px;
+  width: 100px;
+  height: 200px;
+  border: 5px solid gray;
+  text-align: justify;
+}
+	
+.ppt {
+  border: 1px solid black;
+  padding: 10px;
+  width: 400px;
+  height: 200px;
+  border: 5px solid gray;
+  text-align: justify;
+}
+	
+.pres {
   border: 1px solid black;
   padding: 10px;
   width: 400px;
@@ -47,10 +65,10 @@ Assignments from group 23 of CISC322 W22
 	<p style = "color:green;font-size:25px;">Assignment 1</p>
 
 	<div id="assignment">
-			<div class = "b">
+			<div class = "report">
 				<p style = "color:green;font-size:15px;">Report</p>
 				</div>
-				<div class = "b">
+				<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
 		</div>

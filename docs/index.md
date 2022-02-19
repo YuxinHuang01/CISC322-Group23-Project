@@ -18,6 +18,17 @@ Assignments from group 23 of CISC322 W22
 				justify-content: space-around;
 				align-items: flex-start
 			}
+#PPT_Pres {
+				width: 400px;
+				height: 200px;
+				display: flex;
+				display: -webkit-flex;
+				flex-direction: column;
+				flex-wrap: nowrap;
+				justify-content: space-around;
+				align-items: flex-start
+			}
+	
 .report {
   border: 1px solid black;
   padding: 10px;
@@ -73,6 +84,7 @@ video {
 			<div class = "report">
 					<p style = "color:green;font-size:15px;">Report</p>
 				</div>
+		<div id="assignment">
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
@@ -83,6 +95,8 @@ video {
   						<source src="mov_bbb.ogg" type="video/ogg">
 					</video>
 				</div>
+		</div>
+			
 		</div>
 
 	<p style = "color:green;font-size:25px;">Assignment 2</p>

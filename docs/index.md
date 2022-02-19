@@ -32,8 +32,8 @@ Assignments from group 23 of CISC322 W22
 .report {
   border: 1px solid black;
   padding: 10px;
-  width: 300px;
-  height: 500px;
+  width: 400px;
+  height: 600px;
   border: 5px solid gray;
   text-align: justify;
 }
@@ -91,8 +91,7 @@ video {
 			<div class = "pres">
 					<p style = "color:green;font-size:15px;">Presentation</p>
 					<video width="400" controls>
-  						<source src="mov_bbb.mp4" type="video/mp4">
-  						<source src="mov_bbb.ogg" type="video/ogg">
+  						<source src="lol.mp4" type="video/mp4">
 					</video>
 				</div>
 		</div>
@@ -105,12 +104,18 @@ video {
 			<div class = "report">
 					<p style = "color:green;font-size:15px;">Report</p>
 				</div>
+		<div id="PPT_Pres">
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
 			<div class = "pres">
 					<p style = "color:green;font-size:15px;">Presentation</p>
+					<video width="400" controls>
+  						<source src="lol.mp4" type="video/mp4">
+					</video>
 				</div>
+		</div>
+			
 		</div>
 	
 	<p style = "color:green;font-size:25px;">Assignment 3</p>
@@ -119,12 +124,18 @@ video {
 			<div class = "report">
 					<p style = "color:green;font-size:15px;">Report</p>
 				</div>
+		<div id="PPT_Pres">
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
 			<div class = "pres">
 					<p style = "color:green;font-size:15px;">Presentation</p>
+					<video width="400" controls>
+  						<source src="lol.mp4" type="video/mp4">
+					</video>
 				</div>
+		</div>
+			
 		</div>
 	
 <html>

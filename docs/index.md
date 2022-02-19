@@ -39,6 +39,7 @@ Assignments from group 23 of CISC322 W22
   font-size: 28px;
   padding: 20px;
   width: 200px;
+  border-radius: 20px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;

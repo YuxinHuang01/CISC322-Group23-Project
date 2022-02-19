@@ -30,26 +30,43 @@ Assignments from group 23 of CISC322 W22
 			}
 	
 .button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
   cursor: pointer;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
+  margin: 5px;
 }
-	
-.button:hover {background-color: #3e8e41}
-	
-.button:active {
-  background-color: #3e8e41;
-  box-shadow: 0 5px #666;
-  transform: translateY(4px);
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
 }
 	
 .report {
@@ -106,12 +123,12 @@ video {
 	<div id="assignment">
 			<div class = "report">
 					<p style = "color:green;font-size:15px;">Report</p>
-					<button class="button button2">View More</button>
+					<button class="button">View More</button>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
-					<button class="button button2">View More</button>
+					<button class="button">View More</button>
 				</div>
 			<div class = "pres">
 					<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>

@@ -123,12 +123,12 @@ video {
 	<div id="assignment">
 			<div class = "report">
 					<p style = "color:green;font-size:15px;">Report</p>
-					<button class="button" style="vertical-align:middle"><span>Hover </span></button>
+					<button class="button" style="vertical-align:middle"><span>View More </span></button>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
-					<button class="button" style="vertical-align:middle"><span>Hover </span></button>
+					<button class="button" style="vertical-align:middle"><span>View More </span></button>
 				</div>
 			<div class = "pres">
 					<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>

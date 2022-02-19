@@ -92,8 +92,6 @@ video {
 					<p style = "color:green;font-size:15px;">Presentation</p>
 					<video width="400" controls>
   						<source src="lol.mp4" type="video/mp4">
-						<source src="lol.ogg" type="video/ogg">
-						Your browser does not support HTML5 video.
 					</video>
 				</div>
 		</div>
@@ -114,8 +112,6 @@ video {
 					<p style = "color:green;font-size:15px;">Presentation</p>
 					<video width="400" controls>
   						<source src="lol.mp4" type="video/mp4">
-						<source src="lol.ogg" type="video/ogg">
-						Your browser does not support HTML5 video.
 					</video>
 				</div>
 		</div>
@@ -136,8 +132,6 @@ video {
 					<p style = "color:green;font-size:15px;">Presentation</p>
 					<video width="400" controls>
   						<source src="lol.mp4" type="video/mp4">
-						<source src="lol.ogg" type="video/ogg">
-						Your browser does not support HTML5 video.
 					</video>
 				</div>
 		</div>

@@ -45,6 +45,11 @@ Assignments from group 23 of CISC322 W22
   text-align: justify;
 }
 	
+video {
+  width: 100%;
+  height: auto;
+}
+	
 .img_center{
 	display: block;
 	margin-left: auto;
@@ -73,6 +78,10 @@ Assignments from group 23 of CISC322 W22
 				</div>
 			<div class = "pres">
 					<p style = "color:green;font-size:15px;">Presentation</p>
+					<video width="400" controls>
+  						<source src="mov_bbb.mp4" type="video/mp4">
+  						<source src="mov_bbb.ogg" type="video/ogg">
+					</video>
 				</div>
 		</div>
 

@@ -109,7 +109,7 @@ video {
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
 			<div class = "pres">
-					<p style = "color:green;font-size:15px;">Presentation</p>
+					<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>
 					<video width="200" controls>
   						<source src="lol.mp4" type="video/mp4">
 					</video>
@@ -129,7 +129,7 @@ video {
 					<p style = "color:green;font-size:15px;">PPT</p>
 				</div>
 			<div class = "pres">
-					<p style = "color:green;font-size:15px;">Presentation</p>
+					<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>
 					<video width="200" controls>
   						<source src="lol.mp4" type="video/mp4">
 					</video>

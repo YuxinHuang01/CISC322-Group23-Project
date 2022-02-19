@@ -53,7 +53,7 @@ Assignments from group 23 of CISC322 W22
   width: 400px;
   height: 300px;
   border: 5px solid gray;
-  text-align: centre;
+  text-align: center;
 }
 	
 video {

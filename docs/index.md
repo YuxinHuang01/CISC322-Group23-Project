@@ -31,15 +31,14 @@ Assignments from group 23 of CISC322 W22
 	
 .button {
   display: inline-block;
-  border-radius: 4px;
+  border-radius: 10px;
   background-color: #f4511e;
   border: none;
-  color: #FFFFFF;
+  color: Green;
   text-align: center;
-  font-size: 28px;
+  font-size: 15px;
   padding: 20px;
   width: 200px;
-  border-radius: 20px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;

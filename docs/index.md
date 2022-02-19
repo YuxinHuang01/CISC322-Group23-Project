@@ -29,6 +29,29 @@ Assignments from group 23 of CISC322 W22
 				align-items: flex-start
 			}
 	
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+	
+.button:hover {background-color: #3e8e41}
+	
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+	
 .report {
   border: 1px solid black;
   padding: 10px;
@@ -42,7 +65,7 @@ Assignments from group 23 of CISC322 W22
   border: 1px solid black;
   padding: 10px;
   width: 400px;
-  height: 200px;
+  height: 230px;
   border: 5px solid gray;
   text-align: justify;
 }
@@ -51,7 +74,7 @@ Assignments from group 23 of CISC322 W22
   border: 1px solid black;
   padding: 10px;
   width: 400px;
-  height: 200px;
+  height: 230px;
   border: 5px solid gray;
   text-align: center;
 }
@@ -83,10 +106,12 @@ video {
 	<div id="assignment">
 			<div class = "report">
 					<p style = "color:green;font-size:15px;">Report</p>
+					<button class="button button2">View More</button>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
+					<button class="button button2">View More</button>
 				</div>
 			<div class = "pres">
 					<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>

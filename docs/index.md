@@ -124,7 +124,7 @@ video {
 			<div class = "report">
 					<p style = "color:green;font-size:15px;">Report</p>
 				<img src="A1/Report.jpg" height = 150>
-					<button href="https://www.w3school.com.cn/html/html_filepaths.asp" class="button" style="vertical-align:middle"><span>View More </span></button>
+					<button onclick="window.location.href = 'https://www.baidu.com/'" class="button"><span>View More </span></button>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">

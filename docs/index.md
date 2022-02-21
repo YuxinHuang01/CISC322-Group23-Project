@@ -70,29 +70,26 @@ Assignments from group 23 of CISC322 W22
 }
 	
 .report {
-  border: white;
   padding: 10px;
   width: 350px;
   height: 500px;
-  border: 5px solid gray;
+  border: none;
   text-align: center;
 }
 	
 .ppt {
-border: white;
   padding: 10px;
   width: 400px;
   height: 210px;
-  border: 5px solid gray;
+  border: none;
   text-align: center;
 }
 	
 .pres {
-	border: white;
 	padding: 10px;
 	width: 400px;
 	height: 250px;
-	border: 5px solid gray;
+	border: none;
 	text-align: center;
 }
 	

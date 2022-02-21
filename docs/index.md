@@ -123,19 +123,13 @@ video {
 	<div id="assignment">
 			<div class = "report">
 					<p style = "color:green;font-size:15px;">Report</p>
-				<img src="A1/Report.jpg" 
-				     height = 150
-				     class
-				     ="img_center">
+				<img src="A1/Report.jpg" height = 150>
 					<button href="https://www.w3school.com.cn/html/html_filepaths.asp" class="button" style="vertical-align:middle"><span>View More </span></button>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
-				<img src="A1/Presentation.jpg" 
-				     height = 150
-				     class
-				     ="img_center">
+				<img src="A1/Presentation.jpg" height = 150>
 					<button class="button" style="vertical-align:middle"><span>View More </span></button>
 				</div>
 			<div class = "pres">

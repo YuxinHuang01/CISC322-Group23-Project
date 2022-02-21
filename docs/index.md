@@ -124,7 +124,7 @@ video {
 		<div id="PPT_Pres">
 			<div class = "ppt">
 				<p style = "text-align:left;color:green;font-size:15px;">PPT</p>
-					<img src="A1/Presentation.jpg" height = 200>
+					<img src="A1/Presentation.jpg" height = 150>
 				<button onclick="window.location.href = 'A1/A1-slits.pptx'" class="button"><span>View More </span></button>
 				</div>
 			<div class = "pres">

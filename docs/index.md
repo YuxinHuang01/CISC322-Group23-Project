@@ -70,7 +70,7 @@ Assignments from group 23 of CISC322 W22
 }
 	
 .report {
-  border: none;
+  border: white;
   padding: 10px;
   width: 350px;
   height: 500px;
@@ -79,7 +79,7 @@ Assignments from group 23 of CISC322 W22
 }
 	
 .ppt {
-border: none;
+border: white;
   padding: 10px;
   width: 400px;
   height: 210px;
@@ -88,7 +88,7 @@ border: none;
 }
 	
 .pres {
-	border: none;
+	border: white;
 	padding: 10px;
 	width: 400px;
 	height: 250px;

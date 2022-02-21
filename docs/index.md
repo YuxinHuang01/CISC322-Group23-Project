@@ -123,8 +123,9 @@ video {
 	<div id="assignment">
 			<div class = "report">
 					<p style = "color:green;font-size:15px;">Report</p>
-				<img src="/A1/Report.jpg" 
+				<img src="A1/Report.jpg" 
 				     height = 150
+				     width = auto
 				     class
 				     ="img_center">
 					<button href="http://google.com" class="button" style="vertical-align:middle"><span>View More </span></button>
@@ -132,8 +133,9 @@ video {
 		<div id="PPT_Pres">
 			<div class = "ppt">
 					<p style = "color:green;font-size:15px;">PPT</p>
-				<img src="/A1/Presentation.jpg" 
+				<img src="A1/Presentation.jpg" 
 				     height = 150
+				     width = auto
 				     class
 				     ="img_center">
 					<button class="button" style="vertical-align:middle"><span>View More </span></button>
@@ -141,7 +143,7 @@ video {
 			<div class = "pres">
 					<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>
 					<video width="200" controls>
-  						<source src="/A1/A1-presentation.mp4" type="video/mp4">
+  						<source src="A1/A1-presentation.mp4" type="video/mp4">
 					</video>
 				</div>
 		</div>

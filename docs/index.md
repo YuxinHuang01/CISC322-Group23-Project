@@ -70,7 +70,6 @@ Assignments from group 23 of CISC322 W22
 }
 	
 .report {
-  border: 1px solid black;
   padding: 10px;
   width: 350px;
   height: 500px;
@@ -79,7 +78,6 @@ Assignments from group 23 of CISC322 W22
 }
 	
 .ppt {
-  border: 1px solid black;
   padding: 10px;
   width: 400px;
   height: 210px;
@@ -88,7 +86,6 @@ Assignments from group 23 of CISC322 W22
 }
 	
 .pres {
-  border: 1px solid black;
   padding: 10px;
   width: 400px;
   height: 250px;
@@ -124,7 +121,7 @@ video {
 			<div class = "report">
 				<p style = "text-align:left;color:green;font-size:15px;">Report</p>
 				<img src="A1/Report.jpg" height = 450>
-				<button onclick="window.location.href = 'A1/A1-report.dox'" class="button" style="vertical-align:right"><span>View More </span></button>
+				<button onclick="window.location.href = 'A1/A1-report.docx'" class="button" style="vertical-align:right"><span>View More </span></button>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">

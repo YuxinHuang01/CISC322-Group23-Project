@@ -120,7 +120,7 @@ video {
 	<div id="assignment">
 			<div class = "report">
 				<p style = "text-align:left;color:green;font-size:15px;">Report</p>
-				<img src="A1/Report.jpg" height = 450>
+				<img src="A1/Report.jpg" height = 400>
 				<button onclick="window.location.href = 'A1/A1-report.docx'" class="button" style="vertical-align:right"><span>View More </span></button>
 				</div>
 		<div id="PPT_Pres">
@@ -143,16 +143,16 @@ video {
 	
 	<div id="assignment">
 			<div class = "report">
-					<p style = "color:green;font-size:15px;">Report</p>
+				<p style = "text-align:left;color:green;font-size:15px;">Report</p>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">
-					<p style = "color:green;font-size:15px;">PPT</p>
+				<p style = "text-align:left;color:green;font-size:15px;">PPT</p>
 				</div>
 			<div class = "pres">
 					<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>
 					<video width="200" controls>
-  						<source src="lol.mp4" type="video/mp4">
+  						<source>
 					</video>
 				</div>
 		</div>
@@ -163,16 +163,16 @@ video {
 
 	<div id="assignment">
 			<div class = "report">
-					<p style = "color:green;font-size:15px;">Report</p>
+				<p style = "text-align:left;color:green;font-size:15px;">Report</p>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">
-					<p style = "color:green;font-size:15px;">PPT</p>
+				<p style = "text-align:left;color:green;font-size:15px;">PPT</p>
 				</div>
 			<div class = "pres">
 					<p style = "text-align:left;color:green;font-size:15px;">Presentation</p>
 					<video width="200" controls>
-  						<source src="lol.mp4" type="video/mp4">
+  						<source>
 					</video>
 				</div>
 		</div>

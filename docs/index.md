@@ -73,7 +73,6 @@ Assignments from group 23 of CISC322 W22
 	padding: 10px;
 	width: 350px;
 	height: 500px;
-	border: none;
 	text-align: center;
 }
 	
@@ -81,7 +80,6 @@ Assignments from group 23 of CISC322 W22
 	padding: 10px;
 	width: 400px;
 	height: 250px;
-	border: none;
 	text-align: center;
 }
 	
@@ -89,7 +87,6 @@ Assignments from group 23 of CISC322 W22
 	padding: 10px;
 	width: 400px;
 	height: 250px;
-	border: none;
 	text-align: center;
 }
 	

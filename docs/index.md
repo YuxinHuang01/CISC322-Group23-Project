@@ -127,7 +127,7 @@ video {
 				     height = 150
 				     class
 				     ="img_center">
-					<button class="button" style="vertical-align:middle"><span>View More </span></button>
+					<button href="http://google.com" class="button" style="vertical-align:middle"><span>View More </span></button>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">

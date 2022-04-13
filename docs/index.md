@@ -169,6 +169,7 @@ video {
 				<p style = "text-align:left;color:green;font-size:15px;">Report</p>
 				<img src="A3/Report.jpg" height = 400>
 				<button onclick="window.location.href = 'A3/A3-report.pdf'" class="button" style="vertical-align:right"><span>View More </span>
+					</button>
 				</div>
 		<div id="PPT_Pres">
 			<div class = "ppt">
